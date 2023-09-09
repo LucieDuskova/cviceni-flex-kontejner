@@ -36,3 +36,33 @@ img {
   height: 1.5rem;
   width: 1.5rem;
 }
+
+.layout {
+  align-items: stretch;
+}
+
+.layout {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.content {
+  display: flex;
+  
+}
+
+.feature {
+
+}
+
+/* .sidebar-bottom {
+position: absolute;
+bottom: 0;
+} */
+
+.sidebar{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
